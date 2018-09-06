@@ -220,8 +220,6 @@ include_once( get_stylesheet_directory() . '/lib/functions/change-admin-page-lin
 
 include_once( get_stylesheet_directory() . '/lib/functions/change-admin-post-link.php' );
 
-include_once( get_stylesheet_directory() . '/lib/functions/admin-dashboard-custom-logo.php' );
-
 include_once( get_stylesheet_directory() . '/lib/functions/woocommerce-full-width.php' );
 
 include_once( get_stylesheet_directory() . '/lib/functions/remove-title-and-description-on-archive-pages.php' );
